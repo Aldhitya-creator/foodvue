@@ -1,0 +1,11 @@
+#app {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active{
+    font-weight: bold;
+}
+
+.box-shadow{
+    box-shadow: 1px 3px 4px #F46A06;
+}
