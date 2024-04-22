@@ -139,6 +139,26 @@
         }
       ],
       "id": 2
+    },
+    {
+      "name": "al",
+      "noTable": "21",
+      "carts": [
+        {
+          "amount_order": 2,
+          "order_description": "ice",
+          "products": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 3
     }
   ]
 }

@@ -34,15 +34,6 @@
             </div>
           </div>
         </div>
-        <div class="row">
-          <div class="col d-flex justify-content-center">
-            <marquee class="" width="400px" direction="right">
-            <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/apple.png" alt="apple"/>
-            <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/apple.png" alt="apple"/>
-            <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/apple.png" alt="apple"/>
-          </marquee>
-          </div>
-        </div>
       </div>
       <Footer />
   </div>
